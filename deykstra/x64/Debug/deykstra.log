@@ -1,0 +1,7 @@
+﻿  deykstra.cpp
+C:\Users\Марина\Desktop\university\2_1_курсовой\deykstra\deykstra.cpp(7,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  C:\Users\Марина\Desktop\university\2_1_курсовой\deykstra\deykstra.cpp(7,1):
+  "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+C:\Users\Марина\Desktop\university\2_1_курсовой\deykstra\deykstra.cpp(117,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  deykstra.vcxproj -> C:\Users\Марина\Desktop\university\2_1_курсовой\deykstra\x64\Debug\deykstra.exe
